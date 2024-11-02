@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: ARForms Form Builder v1.7.0\n"
+"Project-Id-Version: ARForms Form Builder v1.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-09-18 06:09:59+0000\n"
+"PO-Revision-Date: 2024-10-31 07:03:46+0000\n"
 "Last-Translator: admin <testrepute123@gmail.com>\n"
 "Language-Team: English (United States)\n"
 "MIME-Version: 1.0\n"
@@ -880,7 +880,7 @@ msgstr "Authorized redirect URI"
 msgid "Autocomplete"
 msgstr "Autocomplete"
 
-#: core/controllers/arflitemaincontroller.php:2917
+#: core/controllers/arflitemaincontroller.php:2921
 #@ arforms-form-builder
 msgid "Available Add-ons"
 msgstr "Available Add-ons"
@@ -1444,7 +1444,7 @@ msgstr "Choose Color"
 msgid "Choose File"
 msgstr "Choose File"
 
-#: core/controllers/arflitemaincontroller.php:3258
+#: core/controllers/arflitemaincontroller.php:3262
 #@ arforms-form-builder
 msgid "Choose Option"
 msgstr "Choose Option"
@@ -4779,7 +4779,7 @@ msgstr "of"
 msgid "Off days"
 msgstr "Off days"
 
-#: core/controllers/arflitemaincontroller.php:2943
+#: core/controllers/arflitemaincontroller.php:2947
 #: core/views/arflite_edit.php:4758
 #: core/views/arflite_edit.php:4778
 #: core/views/arflite_edit.php:4926
@@ -5416,7 +5416,7 @@ msgstr "Previous"
 msgid "Previous Entry"
 msgstr "Previous Entry"
 
-#: core/controllers/arflitemaincontroller.php:2925
+#: core/controllers/arflitemaincontroller.php:2929
 #: core/views/arflite_edit.php:932
 #: core/views/arflite_edit.php:1010
 #@ arforms-form-builder
@@ -6341,7 +6341,7 @@ msgid "Sorry, this file type is not permitted for security reasons"
 msgstr "Sorry, this file type is not permitted for security reasons"
 
 #: core/controllers/arflitemaincontroller.php:438
-#: core/controllers/arflitemaincontroller.php:2978
+#: core/controllers/arflitemaincontroller.php:2982
 #: core/controllers/arflitesettingcontroller.php:608
 #@ arforms-form-builder
 msgid "Sorry, you are not allowed to install plugins on this site."
@@ -6365,7 +6365,7 @@ msgstr "Sorry, you do not have enough permission to perform this action"
 #: core/classes/class.arforms_general_settings.php:201
 #: core/classes/class.arforms_import_export.php:937
 #: core/controllers/arflitemaincontroller.php:2456
-#: core/controllers/arflitemaincontroller.php:3018
+#: core/controllers/arflitemaincontroller.php:3022
 #: core/controllers/arfliterecordcontroller.php:1622
 #: core/controllers/arfliterecordcontroller.php:1660
 #: core/controllers/arfliterecordcontroller.php:1888
@@ -6402,8 +6402,8 @@ msgstr "Sorry, your request could not be processed due to security reason"
 #: core/classes/class.arforms_general_settings.php:192
 #: core/classes/class.arforms_import_export.php:943
 #: core/controllers/arflitemaincontroller.php:2458
-#: core/controllers/arflitemaincontroller.php:3037
-#: core/controllers/arflitemaincontroller.php:3057
+#: core/controllers/arflitemaincontroller.php:3041
+#: core/controllers/arflitemaincontroller.php:3061
 #: core/controllers/arfliterecordcontroller.php:1613
 #: core/controllers/arfliterecordcontroller.php:1874
 #: core/controllers/arfliterecordcontroller.php:2368
@@ -8145,7 +8145,7 @@ msgstr "Accordion"
 
 #: core/classes/class.arforms_general_settings.php:79
 #: core/controllers/arflitemaincontroller.php:445
-#: core/controllers/arflitemaincontroller.php:2987
+#: core/controllers/arflitemaincontroller.php:2991
 #: core/controllers/arfliterecordcontroller.php:1671
 #@ arforms-form-builder
 msgid "Sorry, your request cannot be processed due to security reason."
@@ -8185,12 +8185,6 @@ msgstr "Contact Form - Repute InfoSystems"
 #@ arforms-form-builder
 msgid "https://www.arformsplugin.com/"
 msgstr "https://www.arformsplugin.com/"
-
-#. translators: plugin header field 'Version'
-#: arforms-form-builder.php:0
-#@ arforms-form-builder
-msgid "1.7.0"
-msgstr "1.7.0"
 
 #: core/classes/class.arforms_modules.php:38
 #@ arforms-form-builder
@@ -9020,4 +9014,10 @@ msgstr "Payment Gateways Debug Log"
 #@ arforms-form-builder
 msgid "Paypal Debug Log"
 msgstr "Paypal Debug Log"
+
+#. translators: plugin header field 'Version'
+#: arforms-form-builder.php:0
+#@ arforms-form-builder
+msgid "1.7.1"
+msgstr "1.7.1"
 

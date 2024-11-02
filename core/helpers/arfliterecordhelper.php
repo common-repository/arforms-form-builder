@@ -432,7 +432,7 @@ class arfliterecordhelper {
 		}
 
 		if ( $atts['type'] == 'image' ) {
-			$value = '<img src="' . $value . '" height="50px" alt="" />';
+			$value = '<img src="' . esc_html( $value ) . '" height="50px" alt="" />';
 		} elseif ( $atts['type'] == 'date' ) {
 
 			$value = $arflitefieldhelper->arfliteget_date_entry( $value, $field->form_id, $field->field_options['show_time_calendar'], $field->field_options['clock'], $field->field_options['locale'] );
